@@ -4,6 +4,10 @@ Anemometer
 Commercially Available Systems (Cost Analysis)
 ==============================================
 
+[Anemometer Wind Speed Sensor w/Analog Voltage Output](https://www.adafruit.com/product/1733?gclid=EAIaIQobChMIpbatzKO42wIVj8BkCh1LbglXEAQYASABEgKR1fD_BwE)
+
+$45 anemometer + $10 cables is the current solution for the open-iot-weatherstation project.  Is there a cheaper option?  home-built?
+
 References
 ==========
 

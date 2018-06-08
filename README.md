@@ -24,4 +24,3 @@ This image captures a block-level design of the system.  Components are describe
 
 [Radio](radio.md)
 
-[Microcontroller](microcontroller.md)
