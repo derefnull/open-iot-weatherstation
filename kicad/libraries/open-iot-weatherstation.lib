@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# antenna
+#
+DEF antenna U 0 40 Y Y 1 F N
+F0 "U" -100 -75 60 H V C CNN
+F1 "antenna" 25 -150 60 H V C CNN
+F2 "" 0 -175 60 H I C CNN
+F3 "" 0 -175 60 H I C CNN
+DRAW
+P 2 0 1 0 -200 150 -275 325 N
+P 2 0 1 0 -200 150 -200 325 N
+P 3 0 1 0 -200 0 -200 150 -100 325 N
+X ant ~ 0 0 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

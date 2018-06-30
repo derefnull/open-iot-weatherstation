@@ -1,0 +1,3 @@
+[submodule "submodules/footprints"]
+	path = submodules/footprints
+	url = ssh://git@github.com/pycom/footprints.git
